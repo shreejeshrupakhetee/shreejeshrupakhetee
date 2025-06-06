@@ -33,9 +33,9 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:shreejesh.rupakhetee@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>Email</a>
-  <a href="https://rupakheteeshreejesh.com.np/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>Website</a>
-  <a href="https://www.linkedin.com/in/shreejesh-rupakhetee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>Linken</a>
+  <a href="mailto:shreejesh.rupakhetee@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://rupakheteeshreejesh.com.np/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shreejesh-rupakhetee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -56,8 +56,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreejeshrupakhetee&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreejeshrupakhetee&theme=radical" width="47%" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ### ⚙️ Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,mysql,js,tailwind,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,mysql,js,tailwind,vscode,git,github,figma,aws,dockor" />
 </p>
 
 ---
