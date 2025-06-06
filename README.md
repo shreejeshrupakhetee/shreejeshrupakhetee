@@ -54,11 +54,16 @@
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 GitHub Stats & Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreejeshrupakhetee&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreejeshrupakhetee&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreejeshrupakhetee&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreejeshrupakhetee&theme=radical" width="48%" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreejeshrupakhetee&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreejeshrupakhetee&theme=radical" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
